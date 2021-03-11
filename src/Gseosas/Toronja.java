@@ -7,7 +7,7 @@ package Gseosas;
 
 /**
  *
- * @author Raulito
+ * @author RaulSierraYJulianaCastillo
  */
 public class Toronja extends Gaseosa {
     public String Sabor;
